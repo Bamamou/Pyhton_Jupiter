@@ -1,0 +1,13 @@
+{
+  "notebooks": {
+    "Fibonacci_sequence.ipynb": {
+      "slug": "74e16328cc364809a1758f39ffe8a792"
+    },
+    "DoughnutPlot.ipynb": {
+      "slug": "32b5e61a41b04f48b292668982f0900c"
+    },
+    "sympy_example.ipynb": {
+      "slug": "dbf5f80106174f64b9111d1040c756e6"
+    }
+  }
+}
